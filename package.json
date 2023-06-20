@@ -670,6 +670,6 @@
     "vscode-debugadapter": "^1.19.0",
     "vscode-debugprotocol": "^1.19.0",
     "vscode-extension-telemetry": "0.1.2",
-    "vscode-languageclient": "^5.2.1"
+    "vscode-languageclient": "^7.0.0"
   }
 }
